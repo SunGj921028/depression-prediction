@@ -141,11 +141,13 @@
 
 ### Result：
 #### 三種參數的比較效果
+![image](https://github.com/SunGj921028/depression-prediction/blob/main/img/fig1.png)
 
 #### 評估指標比較圖
+![image](https://github.com/SunGj921028/depression-prediction/blob/main/img/fig2.png)
 
 #### Kaggle Leaderboard
-
+![image](https://github.com/SunGj921028/depression-prediction/blob/main/img/fig3.png)
 
 
 
